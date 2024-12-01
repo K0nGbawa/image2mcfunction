@@ -2,7 +2,7 @@
 输入图片左上角的坐标，使用空格进行分割。然后选择一张图片
 
 # 依赖
-colorama==0.4.6
-numpy==2.0.2
-pillow==11.0.0
-tqdm==4.67.1
+colorama==0.4.6 <br>
+numpy==2.0.2 <br>
+pillow==11.0.0 <br>
+tqdm==4.67.1 <br>
